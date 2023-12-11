@@ -1,0 +1,46 @@
+body {
+  background: #dcc0c6;
+  color: #cc1984;
+  font-family: 'Lora', serif;
+  font-size: 17px;
+  font-weight: lighter;
+  line-height: normal;
+}
+h1 {
+  color:#b81175;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: normal;
+}
+h2 {
+  color:#e13da0
+}
+a {
+  text-decoration: none;
+  color:#c1388a
+}
+a:hover {
+  color:rgb(164, 112, 143)5
+}
+.first_card {
+  border: 1px solid rgb(118, 13, 42)(255, 0, 0);
+  text-align: center;
+  padding: 30px;
+}
+.last_card {
+  border: 1px solid rgb(118, 13, 42)(255, 0, 0);
+  text-align: center;
+  padding: 30px;
+}
+.img-circle {
+  border-radius: 50%;
+}
+ul {
+  list-style: none;
+  padding-left: 0px;
+}
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
